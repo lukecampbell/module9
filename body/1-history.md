@@ -1,4 +1,4 @@
-## 1. History of Internet Policies in Business
+## 1 History of Internet Policies in Business
 
 ### 1.1 Reason for Policies
 

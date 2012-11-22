@@ -1,6 +1,6 @@
 ## 3 Constitutional Concerns
 
-### 3.1 Fair-use
+### 3.1 Fourth Ammendment
 
 ### 3.2 Constitutional rights
 
