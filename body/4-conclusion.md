@@ -22,20 +22,20 @@ movies, shopping, and pornography.
 All computer systems will have the following notice presented before a user is 
 authorized access.
 
-_Computer System Notice
-
-You are accessing a corpirate computer information system (IS) that is provided for 
-business use only.
-
-By using this computer system, which includes any attached device, you consent to the
-following:
-
- - Communication monitoring and interception for purposes including, 
-   penetration testing, network operations, personnel misconduct, law enforcement and
-   performance monitoring.
-
- - At any time this computer system may be remotely shut down in the event of fire, 
-   computer intrusion or virus. (Save often)_
+> Computer System Notice
+> 
+> You are accessing a corpirate computer information system (IS) that is provided for 
+> business use only.
+> 
+> By using this computer system, which includes any attached device, you consent to the
+> following:
+> 
+>  - Communication monitoring and interception for purposes including, 
+>    penetration testing, network operations, personnel misconduct, law enforcement and
+>    performance monitoring.
+> 
+>  - At any time this computer system may be remotely shut down in the event of fire, 
+>    computer intrusion or virus. (Save often)
 
 #### Software Licenses and Access
 
