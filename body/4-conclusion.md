@@ -19,6 +19,24 @@ Company computer systems are for business use only. Employees will not use compa
 equipment for personal use. Personal use includes but is not limited to: social media,
 movies, shopping, and pornography. 
 
+All computer systems will have the following notice presented before a user is 
+authorized access.
+
+_Computer System Notice
+
+You are accessing a corpirate computer information system (IS) that is provided for 
+business use only.
+
+By using this computer system, which includes any attached device, you consent to the
+following:
+
+ - Communication monitoring and interception for purposes including, 
+   penetration testing, network operations, personnel misconduct, law enforcement and
+   performance monitoring.
+
+ - At any time this computer system may be remotely shut down in the event of fire, 
+   computer intrusion or virus. (Save often)_
+
 #### Software Licenses and Access
 
 Employees will be issued a standard suite of software for conducting business. 
@@ -36,12 +54,18 @@ an external hard drive for backups from the IT department.
 
 #### Internet Usage
 
-Employees should avoid visiting websites not suitable for work. Websites that are 
-pornographic, discriminatory, racist, political, and social media do not promote our 
-business and are off-limits. If an employee accidentally visits one of these websites,
-he or she must immediately leave the website.
+Employees will be granted access to the internet when their domain account is created.
+Employees should not share company proprietary information over the internet without
+encryption. Employees that are issued laptops will also be issued a key-fob for access
+to the company virtual private network (VPN). 
 
-We block certain well-known websites that are not business related.  
+Certain domain names have been blocked. Employees should not visit websites that have 
+are not business related. If an employee is caught visiting websites that are not
+related to business, he or she may have his or her internet access revoked.
+
+Any digital communication sent or received on company computer equipment is property
+of the company. We maintain the right to inspect and monitor any use of our equipment
+to prevent personal misconduct. 
 
 #### Email Usage
 
