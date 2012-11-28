@@ -24,7 +24,7 @@ authorized access.
 
 > Computer System Notice
 > 
-> You are accessing a corpirate computer information system (IS) that is provided for 
+> You are accessing a corporate computer information system (IS) that is provided for 
 > business use only.
 > 
 > By using this computer system, which includes any attached device, you consent to the
@@ -69,21 +69,23 @@ to prevent personal misconduct.
 
 #### Email Usage
 
-All employees will be given access to a Company e-mail account. It is the employee's
-responsibility to protect his or her e-mail access and to prevent the further 
-dissemination of spam. Employees should not use their business e-mail account to 
-register for personal services online. 
+Employees will be given access to a company e-mail account with their domain account. 
+E-mail communications are property of the company and can be monitored at the 
+discretion of the company. Employees should not use the company e-mail account to 
+register for online services. Employees should not use the e-mail account to send
+messages that do not pertain to business. 
 
-We employ a spam protection program to limit the amount of incoming internet spam 
-to our e-mail servers. Every employee should be proactive in limiting the amount of 
-spam they receive.
+Spam is a constant problem. Employees that receive spam should not forward it, 
+acknowledge it or reply to it. Employees should employ spam filters and never open
+attachments from any account outside of the company domain.
 
-#### Right to access
-
-Only authorized employees may use Company computer systems. Employees will be given
-a domain user account and an e-mail account to conduct business with. No employee
-may grant a non-employee access to Company e-mail or computers. 
-
-### Recommendations
 
 ### Action Plan
+
+The listed draft policy will be added to our employee handbook and given to all 
+employees when they begin work. All current employees will receive this policy as a
+memorandum and should sign a document acknowledging receipt of the policy. 
+
+Supervisors will be responsible for ensuring that each department has received
+a copy of the policy and that each department member has signed it. 
+
