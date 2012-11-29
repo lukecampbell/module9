@@ -16,7 +16,6 @@ computer use policy and employee handbook. Employees must sign acknowledgement t
 or she has read the handbook. 
 
 
-
 #### Connecticut General Statutes § 42-471
 
 Connecticut General Statutes § 42-471 requires any business that collects social
@@ -61,6 +60,40 @@ or engineering information where the owner has taken measures to keep the
 information secret and the information has a measurable economic value. Losing
 proprietary information can cripple even a thriving business. 
 
-### 2.3 Examples and Precedence
+#### Copyright Infringement 17 U.S.C. §501 and §512
+
+Copyright infringement plagues our everyday lives. It's difficult to find a
+news article that lacks a mention of an ongoing  copyright infringement or 
+patent violation case. The top technology companies in 2012 spent the majority
+of the year duking it out in the courts over various patent disputes and 
+copyright concerns. In some cases the employees were completely oblivious
+to the fact that they were using another company's intellectual property.
+
+The age of the computer brought with it a new range of infringements. Digital
+content is difficult to discretely classify. A wave of notable cases have 
+risen because of miscommunication and doubt. Youtube, an online video hosting
+service owned by Google Inc. was sued by Viacom for allowing the hosting users
+to use copyrighted content in the videos, such as music. Ultimately, Youtube
+was spared repercussions, thanks to the Digital Millennium Copyright Act's
+Safe Harbor clause. 
+
+A policy that provides a written instruction to employees not to download
+copyrighted material or use copyrighted material without the consent of the
+authors will protect us from potential damages in an infringement concern.
+Employees should already know not to plagiarize but they may not understand
+why it's not allowed for them to install their own software or even use
+software licensed to the company on their personal machines. 
 
 ### 2.4 Liabilities
+
+Ultimately, the mentioned statutes and laws are to protect private citizens
+and businesses from damages. The concerns we must address are about what
+damages we face if one of our employees is the cause. Written instructions
+arbitrate the blame and place responsibility on the individual instead of
+punishing the company. When an employee violates the law, we will claim 
+no part of it and provide written proof that we do not support the actions
+of that employee. Without the policy, employees have grounds for their action
+based in ignorance which we must account for. 
+
+
+
