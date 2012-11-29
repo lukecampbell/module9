@@ -19,6 +19,9 @@ and spending time and money to prevent it may not be worth the cost.
 
 ### 3.2 Constitutional rights
 
+#### Electronic Communications Privacy Act
+
+
 Employees have the right to privacy. Any personal information about an employee stored
 on a Company domain account is confidential information and must be treated as private
 information and handled in accordance with our privacy policy. No employee may 

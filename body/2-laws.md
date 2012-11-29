@@ -84,6 +84,29 @@ Employees should already know not to plagiarize but they may not understand
 why it's not allowed for them to install their own software or even use
 software licensed to the company on their personal machines. 
 
+
+#### Civil Rights Act of 1964
+
+In summary, the Civil Rights Act of 1964 outlaws any form of discrimination.
+Unfortunately, a company can be held liable for the actions of its employees
+in regards to creating a hostile work environment and unfair discrimination.
+Monitoring e-mail is one way to combat this. Due to the nature of how 
+informal e-mail is and how long it is stored a company could be buried
+in lawsuits and litigation if the employees present discriminatory remarks
+in e-mail or any digital communication maintained by the company.
+
+#### Federal Rules of Civil Procedure (FCRP) governing e-discovery
+
+In a certain situation when a company was brought into question about an
+employee's termination, the company was found guilty. The key turning point
+was when a manager deleted an e-mail describing the reasons for termination.
+The courts held that because the e-mail was removed and was sought to be a
+key piece of evidence in the case, the company was attempting to hide 
+information. If the manager had been properly informed not to write anything
+negative in his e-mails or specifically do not delete e-mails this could
+have been avoided. Specifically it is the job of IT to backup e-mails
+in case of litigation or law enforcement reasons.
+
 ### 2.4 Liabilities
 
 Ultimately, the mentioned statutes and laws are to protect private citizens
