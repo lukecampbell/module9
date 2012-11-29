@@ -21,5 +21,16 @@ http://biz30.timedoctor.com/why-you-need-an-internet-computer-usage-policy/
 
 http://en.wikipedia.org/wiki/Malware
 
+17 U.S.C. §501 §512
+
+http://consumer.findlaw.com/online-scams/email-privacy-concerns.html
+
+18 U.S.C. §2510-2522
+
+Civil Rights Act of 1964
+
+http://www.fiosinc.com/case-law-rules/e-discovery-federal-rules-civil-procedure-frcp.aspx
+
+Connor V. Sun Trust Bank
 
 
