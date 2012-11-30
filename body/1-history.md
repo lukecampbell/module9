@@ -63,6 +63,35 @@ of software.
 
 #### Proprietary Information
 
+If by now you haven't heard of WikiLeaks, then you may be out of the loop. WikiLeaks is
+an organization credited with the dissemination of classified documents from the 
+U.S. Government. Sensitive information being spread on a wide scale like this
+can hurt anyone, especially a government agency. Our information is no different.
+We should take every precaution possible to protect our sensitive information.
+Sensitive information includes research data, financial information, trade secrets,
+employee information, passwords, and any piece of information that anyone can
+reasonably expect should not be publicly available. In 2007, an anonymous hacker
+exploited a vulnerability in the secure server at Thomason Financial, a company
+providing web services to investors and publicly traded corporations. The hacker
+was able to obtain highly sensitive market information before it was publicly 
+released, putting the company in jeopardy.
+
+Nearly every piece of important information to a company is going to be stored
+on a computer at some point. Access to the information should be controlled
+carefully to prevent unnecessary disclosure. When a company is attacked over the
+web, the majority of the time the attackers simply want to deface a website
+or cause an interruption in business services. On occasion, some attacks will be
+aimed at retrieving information. In 2011, Sony, a Japanese multinational conglomerate
+specializing in electronics production, was attacked by a group of hackers. The
+attackers discovered a database of client accounts that Sony maintained. The hackers
+publicly released all of the contents of the database. It was speculated by law 
+enforcement that several of these account passwords were the same passwords
+used by clients for other services as well, and that criminal organizations
+began to use the information to commit crimes and commit identity theft. Sony
+had to manage a gigantic setback because this information was not properly
+stored and managed. It turns out that Sony did not even encrypt the passwords
+as most computer systems do by default.
+
 
 
 ### 1.2 Absence of Policy
