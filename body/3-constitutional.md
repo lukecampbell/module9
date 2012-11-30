@@ -21,7 +21,7 @@ by someone, the internet browsing history might be reviewed by the IT staff,
 a manager might walk in while a chat window is open. If something is inappropriate
 at any time, then it should not be on the computer system.
 
-### 3.2 Constitutional rights
+### 3.2 Constitutional Rights
 
 The first amendment which protects the freedom of speech and religion ties closely
 with federal anti-discrimination laws. We do not support or condone any form of 
@@ -44,7 +44,7 @@ be if an employee stays logged in and another employee uses the computer to post
 or send a very rude e-mail in the hopes to be comical. This is a violation of an
 employee's right to work in a friendly environment. 
 
-#### Employee Privacy
+#### 3.2.1 Employee Privacy
 
 Employees have the right to privacy. Any personal information about an employee stored
 on a Company domain account is confidential information and must be treated as private

@@ -7,7 +7,7 @@ employees. With cyber crime against businesses on the rise every year we should
 exercise common sense and a simple policy to limit our exposure and susceptibility
 to these attacks.
 
-#### Computer Crimes
+#### 1.1.1 Computer Crimes
 
 The easiest way for an attacker to exploit company computers is with a computer virus.
 Most computer viruses are transmitted through the internet, sometimes through email. 
@@ -25,7 +25,7 @@ to use and how to verify the sender of the document (IBM 67).
 <img src="http://cl.ly/image/1E0h0J141M0y/Screen%20Shot%202012-11-29%20at%208.00.33%20PM.png" alt="Critical and High Vulnerabilities" />
 
 
-#### E-mail spam
+#### 1.1.2 E-mail Spam
 
 E-mail spam can sometimes render an email service useless. Soliciting unwanted emails 
 is illegal. Some computer viruses can turn our e-mail servers into spam bots, sending
@@ -40,7 +40,7 @@ spam but ultimately it is the employee's responsibility to protect his or her ac
 from spamming services and most importantly not to forward or engage in spamming
 himself or herself.
 
-#### Malware
+#### 1.1.3 Malware
 
 In 2012 IBM assessed that 50% of all malware links are placed on pornographic or 
 gambling websites (IBM 8). Malware is short for malicious software; it is used by an attacker
@@ -61,7 +61,7 @@ of software.
 
 <img src="http://cl.ly/image/0p1N2t061D0v/Screen%20Shot%202012-11-29%20at%208.09.24%20PM.png" alt="Web Vulnerabilities" />
 
-#### Proprietary Information
+#### 1.1.4 Proprietary Information
 
 If by now you haven't heard of WikiLeaks, then you may be out of the loop. WikiLeaks is
 an organization credited with the dissemination of classified documents from the 
@@ -109,6 +109,8 @@ wasting time. A 2010 Salary.com survey indicates that about 64% of employees was
 near an hour of work every day by idly surfing the internet. A quick reality check on
 the math shows us that at an average salary the business wastes $456 per week for
 employees to browse the internet, not including the opportunity cost.
+
+<img src="http://cl.ly/image/2Z2S1J3B132N/Salary.com%20Graph.png" alt="Copyright 2008 Salary.com"/>
 
 Without computer monitoring we would not be able to discover network bottlenecks, 
 determine which employee is downloading a very large file, which could disrupt the 

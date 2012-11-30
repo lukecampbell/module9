@@ -1,8 +1,8 @@
-## Conclusion
+## 4 Conclusion
 
-### Draft Policy
+### 4.1 Draft Policy
 
-#### Computer Use
+#### 4.1.1 Computer Use
 
 Employees will be given a desktop computer or laptop depending on business function.
 Each employee is responsible for the computer to ensure that no physical harm is done
@@ -37,7 +37,7 @@ authorized access.
 >  - At any time this computer system may be remotely shut down in the event of fire, 
 >    computer intrusion or virus. (Save often)
 
-#### Software Licenses and Access
+#### 4.1.2 Software Licenses and Access
 
 Employees will be issued a standard suite of software for conducting business. 
 Additional software can be requested through the IT department. Only IT administrators
@@ -52,7 +52,7 @@ Employees are encouraged to make frequent backups of work onto company external
 hard drives and the company private network share drives. Any employee can request
 an external hard drive for backups from the IT department.
 
-#### Internet Usage
+#### 4.1.3 Internet Usage
 
 Employees will be granted access to the internet when their domain account is created.
 Employees should not share company proprietary information over the internet without
@@ -67,7 +67,7 @@ Any digital communication sent or received on company computer equipment is prop
 of the company. We maintain the right to inspect and monitor any use of our equipment
 to prevent personal misconduct. 
 
-#### Email Usage
+#### 4.1.4 Email Usage
 
 Employees will be given access to a company e-mail account with their domain account. 
 E-mail communications are property of the company and can be monitored at the 
@@ -80,7 +80,7 @@ acknowledge it or reply to it. Employees should employ spam filters and never op
 attachments from any account outside of the company domain.
 
 
-### Action Plan
+### 4.2 Action Plan
 
 The listed draft policy will be added to our employee handbook and given to all 
 employees when they begin work. All current employees will receive this policy as a
