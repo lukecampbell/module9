@@ -20,7 +20,7 @@ number of vulnerabilities discovered in common document formats. In 2011, there 
 70 known critical vulnerabilities disclosed in the common document formats. Nearly
 every employee expects to see documents in e-mails like these, it is our 
 responsibility to let our employees know when it is safe to use them, which ones
-to use and how to verify the sender of the document. 
+to use and how to verify the sender of the document (IBM 67).
 
 <img src="http://cl.ly/image/1E0h0J141M0y/Screen%20Shot%202012-11-29%20at%208.00.33%20PM.png" alt="Critical and High Vulnerabilities" />
 
@@ -35,7 +35,7 @@ business image.
 E-mail spam rates for 2011 and 2012 are decreasing. Several products provide private
 and corporate owners with the ability to filter wide ranges of spam and e-mail 
 attacks. IBM's spam filter database contains more than 40 million relevant spam 
-signatures. We employ a very sophisticated suite of tools to decrease our received
+signatures (IBM 38). We employ a very sophisticated suite of tools to decrease our received
 spam but ultimately it is the employee's responsibility to protect his or her account
 from spamming services and most importantly not to forward or engage in spamming
 himself or herself.
@@ -43,7 +43,7 @@ himself or herself.
 #### Malware
 
 In 2012 IBM assessed that 50% of all malware links are placed on pornographic or 
-gambling websites. Malware is short for malicious software; it is used by an attacker
+gambling websites (IBM 8). Malware is short for malicious software; it is used by an attacker
 to disrupt normal operations, steal information or infect adjacent systems. By limiting
 our employees' exposure to potentially malicious content we can minimize inherent
 threats to our systems.
@@ -74,7 +74,7 @@ reasonably expect should not be publicly available. In 2007, an anonymous hacker
 exploited a vulnerability in the secure server at Thomason Financial, a company
 providing web services to investors and publicly traded corporations. The hacker
 was able to obtain highly sensitive market information before it was publicly 
-released, putting the company in jeopardy.
+released, putting the company in jeopardy (Hagar).
 
 Nearly every piece of important information to a company is going to be stored
 on a computer at some point. Access to the information should be controlled
@@ -87,7 +87,7 @@ attackers discovered a database of client accounts that Sony maintained. The hac
 publicly released all of the contents of the database. It was speculated by law 
 enforcement that several of these account passwords were the same passwords
 used by clients for other services as well, and that criminal organizations
-began to use the information to commit crimes and commit identity theft. Sony
+began to use the information to commit crimes and commit identity theft (FBI). Sony
 had to manage a gigantic setback because this information was not properly
 stored and managed. It turns out that Sony did not even encrypt the passwords
 as most computer systems do by default.
