@@ -82,3 +82,12 @@ human resources or their direct supervisors.
 
 ### 3.3 Separate Issues
 
+If a third party requests information about employee computer use or monitoring, 
+we will obey state and federal laws in these matters. Employees can rest assured
+that we will not deliberately divulge information without a reason. Internet
+service providers also follow the guidelines described by the Electronic 
+Communications Privacy act. In order for law enforcement to legally obtain records
+about an employee either in the form of e-mail or other computer stored information,
+a warrant must be issued for those records before any record can be delivered.
+
+

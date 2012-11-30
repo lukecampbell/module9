@@ -7,10 +7,25 @@ employees. With cyber crime against businesses on the rise every year we should
 exercise common sense and a simple policy to limit our exposure and susceptibility
 to these attacks.
 
+#### Computer Crimes
+
 The easiest way for an attacker to exploit company computers is with a computer virus.
 Most computer viruses are transmitted through the internet, sometimes through email. 
 There are in some cases, disreputable websites which when visited can install the virus
 onto the computer. 
+
+Computer exploits can also be found inside e-mail attachments such as portable
+document format (PDF) or Microsoft Office documents. IBM released findings on the
+number of vulnerabilities discovered in common document formats. In 2011, there were
+70 known critical vulnerabilities disclosed in the common document formats. Nearly
+every employee expects to see documents in e-mails like these, it is our 
+responsibility to let our employees know when it is safe to use them, which ones
+to use and how to verify the sender of the document. 
+
+<img src="http://cl.ly/image/1E0h0J141M0y/Screen%20Shot%202012-11-29%20at%208.00.33%20PM.png" alt="Critical and High Vulnerabilities" />
+
+
+#### E-mail spam
 
 E-mail spam can sometimes render an email service useless. Soliciting unwanted emails 
 is illegal. Some computer viruses can turn our e-mail servers into spam bots, sending
@@ -25,11 +40,29 @@ spam but ultimately it is the employee's responsibility to protect his or her ac
 from spamming services and most importantly not to forward or engage in spamming
 himself or herself.
 
+#### Malware
+
 In 2012 IBM assessed that 50% of all malware links are placed on pornographic or 
 gambling websites. Malware is short for malicious software; it is used by an attacker
 to disrupt normal operations, steal information or infect adjacent systems. By limiting
 our employees' exposure to potentially malicious content we can minimize inherent
 threats to our systems.
+
+It's becoming increasingly easy for attackers to gain access to machines through 
+the web. IBM reported nearly 800 disclosed web vulnerabilities in web browsers.
+Every vulnerability in a web browser can be exploited by an attacker cleverly
+crafting code and placing it on a website. All the attacker has to do is wait
+for someone to visit the website and then he can gain access to the computer system.
+Every employee should understand the dangers associated with some websites. 
+Keeping our software up to date can help prevent exploitation, software vendors
+frequently look for bugs and vulnerabilities to patch. As soon as a new version
+is released, IT will usually update it on all of the systems that have that piece
+of software. 
+
+<img src="http://cl.ly/image/0p1N2t061D0v/Screen%20Shot%202012-11-29%20at%208.09.24%20PM.png" alt="Web Vulnerabilities" />
+
+#### Proprietary Information
+
 
 
 ### 1.2 Absence of Policy
